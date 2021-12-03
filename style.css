@@ -20,7 +20,7 @@ body {
 	width: 100%;
 	height: 100vh;
 	font-family: 'Montserrat', sans-serif;
-	background-image: url("cust.jpg");
+	background-image: url("weather.jpg");
 	backdrop-filter: blur(5px);
 	display: -webkit-box;
 	display: -ms-flexbox;
